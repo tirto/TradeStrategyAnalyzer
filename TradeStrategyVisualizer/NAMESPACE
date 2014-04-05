@@ -1,0 +1,3 @@
+importFrom("RJSONIO", "toJSON")
+exportPattern(portfolioHoldingSummaryChart,stockCorrMatrixChart,stockCorrPairsCartesianChart,portfolioStocksChart,portfolioBoxPlot,calendarHeatMap,readFromDB,writeToDB,calcSumHoldings,calcHoldingVal)
+exportPattern(gvisMotionChart2,gvisAnnotatedTimeLine2)

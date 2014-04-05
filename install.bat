@@ -1,0 +1,2 @@
+R CMD INSTALL DBI_0.2-5.tar.gz
+R CMD INSTALL RSQLite_0.9-4.tar.gz
